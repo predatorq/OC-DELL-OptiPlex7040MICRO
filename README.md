@@ -1,8 +1,7 @@
 # OC-DELL-OptiPlex7040MICRO
 Opencore EFI for Dell OptiPlex 7040 Micro
 
-中文介绍
-
+简体中文 | [English](/.github/README-en.md)
 ## 硬件规格
 | 型号    | Dell OptiPlex 7040 Micro |
 |----------|-------------------------|
