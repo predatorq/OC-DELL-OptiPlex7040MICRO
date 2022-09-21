@@ -21,7 +21,7 @@ macOS Monterey Version 12.4 12.5 **12.6**
 
 ## Opencore与引导
 
-- 使用Opencore 0.7.8 **0.8.2**
+- 使用Opencore 0.7.8 0.8.2 **0.8.4**
 - BlueToolFixup最新版在我的机器上无法使用, 回退到2.6.2
 
 ## 使用前须知
