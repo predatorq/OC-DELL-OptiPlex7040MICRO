@@ -15,7 +15,7 @@ Opencore EFI for Dell OptiPlex 7040 Micro
 
 ## 测试成功的系统
 
-macOS Monterey Version 12.4 **12.5**
+macOS Monterey Version 12.4 12.5 **12.6**
 
 如果使用Bigsur的话请自行修改文件(主要就更改一些WiFi与蓝牙相关的设置即可)
 
