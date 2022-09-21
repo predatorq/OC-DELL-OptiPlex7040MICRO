@@ -14,13 +14,13 @@ Opencore EFI for Dell OptiPlex 7040 Micro
 
 ## System available
 
-MacOS Monterey Version 12.4 **12.5**
+MacOS Monterey Version 12.4 12.5 **12.6**
 
 If you use Bigsur, please modify the file yourself (mainly just change some WiFi and Bluetooth related settings).
 
 ## Opencore version and kexts
 
-- Opencore 0.7.8 **0.8.2**
+- Opencore 0.7.8 0.8.2 **0.8.4**
 - The latest version of BlueToolFixup is not available on my machine, use version 2.6.2 instead.
 
 ## Statements
