@@ -21,7 +21,7 @@ If you use Bigsur, please modify the file yourself (mainly just change some WiFi
 ## Opencore version and kexts
 
 - Opencore 0.7.8 0.8.2 **0.8.4**
-- ～～The latest version of BlueToolFixup is not available on my machine, use version 2.6.2 instead.～～ use 2.6.3
+- ～～The latest version of BlueToolFixup is not available on my machine, use version 2.6.2 instead～～ use 2.6.3
 
 ## Statements
 
